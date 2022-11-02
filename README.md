@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mugarian
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning ReactJS, Laravel, MongoDB
+- 🌱 I’m currently learning Laravel, Lumen
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me mgfebrian@gmail.com
 
